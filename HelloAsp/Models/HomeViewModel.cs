@@ -7,5 +7,8 @@ namespace HelloAsp.Models
 {
     public class HomeViewModel
     {
+        public int PhoneCount;
+        public int UserCount;
+        public DateTime LastAccessDate;
     }
 }
